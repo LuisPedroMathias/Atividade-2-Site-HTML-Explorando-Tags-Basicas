@@ -11,9 +11,6 @@
     <p>Essa tag serve para fazer comentários e anotaçõs no código.</p>
     <!--Exmeplo de Tag de comentário--> 
     <p>Detalhe importante, essa tag é de uso apenas para o código, ela não aparecerá no site.</p>
-   <hr>
-   <h2>Tag para Endereços</h2>
-   <p></p>
 
 </body>
 </html>
